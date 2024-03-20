@@ -1,3 +1,3 @@
 ## Aula 05
 
-Desenvolvido por Marcos Prado.
+Desenvolvido por Marcos Vinicius Texeira do Prado.
